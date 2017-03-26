@@ -5,6 +5,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Hardware](#hardware)
 - [Operating System](#operating-system)
 - [IoT Clouds](#iot-clouds)
+- [Get started with IoT Hub](#get-started-with-iot-hub)
 - [Framework](#framework)
 - [SDK](#sdk)
 - [Libraries and Tools](#libraries-and-tools)
@@ -24,6 +25,14 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Connect, monitor, and manage billions of IoT assets. Azure IoT Hub is a fully managed service that enables reliable and secure bidirectional communications between millions of IoT devices and a solution back end.
 - [Azure Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/) - Cloud-scale telemetry ingestion from websites, apps, and any streams of data.
 - [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) - Real-time data stream processing from millions of IoT devices.
+
+## Get started with IoT Hub
+
+- [Simulated device](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-node-node-getstarted) - Connect your simulated device to your IoT hub using Node.js.
+- [Raspberry Pi 3](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-kit-node-get-started) - Connect your Raspberry Pi 3 device to your IoT hub using Node.js.
+- [Arduino](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-adafruit-feather-m0-wifi-kit-arduino-get-started) - Get started with your Arduino board: Adafruit Feather M0 WiFi.
+- [Intel Edison](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-intel-edison-kit-c-get-started) - Connect your Intel Edison device to your IoT hub using C.
+- [IoT Gateway Starter Kit](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-gateway-kit-c-get-started) - Get started with IoT Gateway Starter Kit with a SensorTag.
 
 ## Framework
 
