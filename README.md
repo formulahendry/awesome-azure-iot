@@ -30,7 +30,9 @@ A curated list of awesome Azure Internet of Things projects and resources.
 
 - [Simulated device](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-node-node-getstarted) - Connect your simulated device to your IoT hub using Node.js.
 - [Raspberry Pi 3](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-kit-node-get-started) - Connect your Raspberry Pi 3 device to your IoT hub using Node.js.
-- [Arduino](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-adafruit-feather-m0-wifi-kit-arduino-get-started) - Get started with your Arduino board: Adafruit Feather M0 WiFi.
+- [Adafruit Feather M0 WiFi](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-adafruit-feather-m0-wifi-kit-arduino-get-started) - Get started with your Arduino board: Adafruit Feather M0 WiFi.
+- [Adafruit Feather HUZZAH ESP8266](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-huzzah-esp8266-get-started) - Get started with your Arduino board: Adafruit Feather HUZZAH ESP8266.
+- [Sparkfun ESP8266 Thing Dev](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-sparkfun-esp8266-thing-dev-get-started) - Get started with your Arduino board: Sparkfun ESP8266 Thing Dev.
 - [Intel Edison](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-intel-edison-kit-c-get-started) - Connect your Intel Edison device to your IoT hub using C.
 - [IoT Gateway Starter Kit](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-gateway-kit-c-get-started) - Get started with IoT Gateway Starter Kit with a SensorTag.
 
