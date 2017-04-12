@@ -34,7 +34,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Adafruit Feather HUZZAH ESP8266](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-huzzah-esp8266-get-started) - Get started with your Arduino board: Adafruit Feather HUZZAH ESP8266.
 - [Sparkfun ESP8266 Thing Dev](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-sparkfun-esp8266-thing-dev-get-started) - Get started with your Arduino board: Sparkfun ESP8266 Thing Dev.
 - [Intel Edison](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-intel-edison-kit-c-get-started) - Connect your Intel Edison device to your IoT hub using C.
-- [IoT Gateway Starter Kit](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-gateway-kit-c-get-started) - Get started with IoT Gateway Starter Kit with a SensorTag.
+- [IoT Gateway Starter Kit](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-gateway-kit-c-lesson1-set-up-nuc) - Get started with IoT Gateway Starter Kit with a SensorTag.
 
 ## Framework
 
