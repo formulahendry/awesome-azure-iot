@@ -14,7 +14,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 ## Hardware
 
 - [Azure Certified for IoT device catalog](https://catalog.azureiotsuite.com/) - Certified for IoT devices tailored to your needs.
-- [Microsoft Azure IoT Starter Kits](https://azure.microsoft.com/en-us/develop/iot/starter-kits/) - Start innovating today with kits that include development boards that are 'Azure Certified for IoT', sensors and actuators. Simple user-friendly tutorials help you seamlessly connect your devices to the cloud with Microsoft Azure IoT.
+- [Microsoft Azure IoT Starter Kits](https://catalog.azureiotsuite.com/kits) - Start innovating today with kits that include development boards that are 'Azure Certified for IoT', sensors and actuators. Simple user-friendly tutorials help you seamlessly connect your devices to the cloud with Microsoft Azure IoT.
 
 ## Operating System
 
@@ -46,7 +46,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 
 - [Azure IoT device SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-device-sdk) - The Microsoft Azure IoT device SDKs contain code that facilitates building devices and applications that connect to and are managed by Azure IoT Hub services.
 - [Azure IoT service SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-service-sdk) - The Azure IoT service SDKs contain code to facilitate building applications that interact directly with IoT Hub to manage devices and security.
-- [Azure IoT Gateway SDK](https://github.com/Azure/azure-iot-gateway-sdk) - Azure IoT Gateway SDK contains the infrastructure and modules to create IoT gateway solutions. You can extend the SDK to create gateways tailored to any end-to-end scenario.
+- [Azure IoT Gateway SDK](https://github.com/Azure/iot-edge) - Azure IoT Gateway SDK contains the infrastructure and modules to create IoT gateway solutions. You can extend the SDK to create gateways tailored to any end-to-end scenario.
 
 ## Libraries and Tools
 
