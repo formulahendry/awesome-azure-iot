@@ -13,6 +13,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 
 ## Hardware
 
+- [Azure IoT Developer Kit](https://microsoft.github.io/azure-iot-developer-kit/) - The Microsoft Azure MXChip IoT Developer Kit (a.k.a DevKit) can be used to develop and prototype IoT solutions leveraging Microsoft Azure services. It includes an Arduino compatible board with rich peripherals and sensors, an open-source board package and a growing projects catalog.
 - [Azure Certified for IoT device catalog](https://catalog.azureiotsuite.com/) - Certified for IoT devices tailored to your needs.
 - [Microsoft Azure IoT Starter Kits](https://catalog.azureiotsuite.com/kits) - Start innovating today with kits that include development boards that are 'Azure Certified for IoT', sensors and actuators. Simple user-friendly tutorials help you seamlessly connect your devices to the cloud with Microsoft Azure IoT.
 
