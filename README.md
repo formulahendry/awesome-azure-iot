@@ -38,6 +38,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Sparkfun ESP8266 Thing Dev](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-sparkfun-esp8266-thing-dev-get-started) - Get started with your Arduino board: Sparkfun ESP8266 Thing Dev.
 - [Intel Edison](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-intel-edison-kit-c-get-started) - Connect your Intel Edison device to your IoT hub using C.
 - [IoT Gateway Starter Kit](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-gateway-kit-c-lesson1-set-up-nuc) - Get started with IoT Gateway Starter Kit with a SensorTag.
+- [MXChip IoT Developer Kit](https://microsoft.github.io/azure-iot-developer-kit/docs/projects/connect-iot-hub) - Get started with your MXChip IoT Developer Kit.
 
 ## Framework
 
