@@ -53,7 +53,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 ## Libraries and Tools
 
 - [PlatformIO for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio) - PlatformIO is an open source ecosystem for IoT development. It supports 350+ embedded boards, 20+ development platforms and 10+ frameworks.
-- [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=formulahendry.azure-iot-toolkit) - Azure IoT Toolkit Extension for Visual Studio Code: Interact with Azure IoT Hub; IoT Device Management; Discover Ethernet, USB serial, WiFi connected devices; Deploy and run code in remote machine.
+- [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) - Interact with Azure IoT Hub, IoT Device Management, IoT Hub Code Snippets.
 - [Azure IoT Web Client](https://azure-iot.github.io) - A web-based client tool for Azure IoT Hub to send and monitor device-to-cloud messages.
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/iot) - Commands to connect, monitor, and control millions of IoT assets.
 - [IoT Hub REST API](https://docs.microsoft.com/en-us/rest/api/iothub/) - The REST APIs for IoT Hub offer programmatic access to the device and messaging services, as well as the resource provder, in IoT Hub.
