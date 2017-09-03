@@ -55,7 +55,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [PlatformIO for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio) - PlatformIO is an open source ecosystem for IoT development. It supports 350+ embedded boards, 20+ development platforms and 10+ frameworks.
 - [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) - Interact with Azure IoT Hub, IoT Device Management, IoT Hub Code Snippets.
 - [Azure IoT Web Client](https://azure-iot.github.io) - A web-based client tool for Azure IoT Hub to send and monitor device-to-cloud messages.
-- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/iot) - Commands to connect, monitor, and control millions of IoT assets.
+- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/iot?view=azure-cli-latest) - Commands to connect, monitor, and control millions of IoT assets.
 - [IoT Hub REST API](https://docs.microsoft.com/en-us/rest/api/iothub/) - The REST APIs for IoT Hub offer programmatic access to the device and messaging services, as well as the resource provder, in IoT Hub.
 - [IoT Hub Explorer](https://github.com/azure/iothub-explorer) - A CLI tool to manage device identities in your IoT hub registry, send and receive messages and files from your devices, and monitor your IoT hub operations.
 - [Device Explorer](https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer) - This tool enables you to perform operations such as manage the devices registered to an IoT hub, view device-to-cloud messages sent to an IoT hub, and send cloud-to-device messages from an IoT hub. Note this tool only runs on Windows.
