@@ -24,6 +24,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 ## IoT Clouds
 
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Connect, monitor, and manage billions of IoT assets. Azure IoT Hub is a fully managed service that enables reliable and secure bidirectional communications between millions of IoT devices and a solution back end.
+- [Azure IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/) - Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management.
 - [Azure Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/) - Cloud-scale telemetry ingestion from websites, apps, and any streams of data.
 - [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) - Real-time data stream processing from millions of IoT devices.
 - [Microsoft IoT Central](https://www.microsoft.com/en-us/internet-of-things/iot-central-saas-solutions) - A fully managed SaaS offering for customers and partners that enables powerful IoT scenarios without requiring cloud solution expertise.
@@ -47,12 +48,13 @@ A curated list of awesome Azure Internet of Things projects and resources.
 
 - [Azure IoT device SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-device-sdk) - The Microsoft Azure IoT device SDKs contain code that facilitates building devices and applications that connect to and are managed by Azure IoT Hub services.
 - [Azure IoT service SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-service-sdk) - The Azure IoT service SDKs contain code to facilitate building applications that interact directly with IoT Hub to manage devices and security.
-- [Azure IoT Gateway SDK](https://github.com/Azure/iot-edge) - Azure IoT Gateway SDK contains the infrastructure and modules to create IoT gateway solutions. You can extend the SDK to create gateways tailored to any end-to-end scenario.
+- [Azure IoT Edge SDK](https://github.com/Azure/iot-edge) - Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management.
 
 ## Libraries and Tools
 
-- [PlatformIO for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio) - PlatformIO is an open source ecosystem for IoT development. It supports 350+ embedded boards, 20+ development platforms and 10+ frameworks.
+- [Azure IoT Edge](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) - Develop, deploy, debug, and manage your IoT Edge solution.
 - [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) - Interact with Azure IoT Hub, IoT Device Management, IoT Hub Code Snippets.
+- [PlatformIO for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio) - PlatformIO is an open source ecosystem for IoT development. It supports 350+ embedded boards, 20+ development platforms and 10+ frameworks.
 - [Azure IoT Web Client](https://azure-iot.github.io) - A web-based client tool for Azure IoT Hub to send and monitor device-to-cloud messages.
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/iot?view=azure-cli-latest) - Commands to connect, monitor, and control millions of IoT assets.
 - [IoT Hub REST API](https://docs.microsoft.com/en-us/rest/api/iothub/) - The REST APIs for IoT Hub offer programmatic access to the device and messaging services, as well as the resource provder, in IoT Hub.
