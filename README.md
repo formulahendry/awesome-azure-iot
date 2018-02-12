@@ -1,6 +1,6 @@
 # Awesome Azure IoT ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Build Status](https://travis-ci.org/formulahendry/awesome-azure-iot.svg?branch=master)](https://travis-ci.org/formulahendry/awesome-azure-iot)
 
-A curated list of awesome Azure Internet of Things projects and resources.
+A curated list of awesome Azure Internet of Things projects and resources. Please visit https://github.com/Azure/iot for the official list.
 
 - [Hardware](#hardware)
 - [Operating System](#operating-system)
